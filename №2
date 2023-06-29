@@ -1,5 +1,0 @@
-def boolean_to_string(b):
-    if b==False:
-        return str(False)
-    else:
-        return str(True)
